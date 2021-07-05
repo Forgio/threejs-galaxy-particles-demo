@@ -1,5 +1,5 @@
 ## Demo
-https://ztsv.me/galaxy_old/
+https://ztsv.me/galaxy/
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
